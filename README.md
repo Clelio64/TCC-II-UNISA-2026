@@ -43,11 +43,12 @@ com economia total de **40,54%** no consumo diário agregado.
       <td>12,74%</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>&#128736; Elevadores</td>
-      <td>PMSG + Regenerativo</td>
-      <td>35,00%</td>
-    </tr>
+  <td>2</td>
+  <td>Elevadores</td>
+  <td>PMSG + Regenerativo</td>
+  <td>35,00%</td>
+</tr>
+
     <tr>
       <td>3</td>
       <td>&#128161; Iluminação</td>
