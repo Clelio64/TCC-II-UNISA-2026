@@ -1,17 +1,17 @@
 # 🎓 TCC II — UNISA 2026
 
-**Autor:** Clelio Gomes de Souza  
-**Instituição:** UNISA — Universidade de Santo Amaro  
-**Curso:** Medicina  
-**Orientador:** Prof. Esmael Mendonça Rezende  
-**Ano:** 2026  
+**Autor:** Clelio Gomes de Souza
+**Instituição:** UNISA — Universidade de Santo Amaro
+**Curso:** Engenharia
+**Orientador:** Prof. Esmael Mendonça Rezende
+**Ano:** 2026
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Validação por simulação do potencial de otimização energética 
-em sistemas prediais integrados — edifício comercial de 10 andares, 
+Validação por simulação do potencial de otimização energética
+em sistemas prediais integrados — edifício comercial de 10 andares,
 com economia total de **40,54%** no consumo diário agregado.
 
 ---
@@ -24,24 +24,57 @@ com economia total de **40,54%** no consumo diário agregado.
 
 ---
 
-| # | Subsistema | Tecnologia | Economia |
-|---|---|---|---|
-| 1 | Bombeamento de Agua | VFD + PID | 12,74% |
-| 2 | Elevadores | PMSG + Regenerativo | 35,00% |
-| 3 | Iluminacao | LED + Dimerizacao | 66,25% |
-| 4 | HVAC/Chiller | VFD + COP Elevado | 39,20% |
+## ⚡ Subsistemas Simulados
 
-**Economia Total: 40,54% -- Meta superada em +15 pontos percentuais!**
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Subsistema</th>
+      <th>Tecnologia</th>
+      <th>Economia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>&#128167; Bombeamento de Água</td>
+      <td>VFD + PID</td>
+      <td>12,74%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>&#128736; Elevadores</td>
+      <td>PMSG + Regenerativo</td>
+      <td>35,00%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>&#128161; Iluminação</td>
+      <td>LED + Dimerização</td>
+      <td>66,25%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>&#10052; HVAC/Resfriador</td>
+      <td>VFD + COP Elevado</td>
+      <td>39,20%</td>
+    </tr>
+  </tbody>
+</table>
 
+<p><strong>&#9989; Economia Total: 40,54% — Meta superada em +15 pontos percentuais!</strong></p>
 
 ---
 
 ## 💰 Resultados Financeiros
 
-- 💡 Economia Anual: **390.964,65 kWh**
-- 💰 Ganho Financeiro: **R$ 293.223,49/ano**
-- ⏱️ Payback Simples: **2,39 anos**
-- 🌱 Redução de CO₂: **31,28 ton/ano**
+| Indicador | Valor |
+|---|---|
+| ⚡ Economia Anual | 390.964,65 kWh |
+| 💰 Ganho Financeiro | R$ 293.223,49/ano |
+| ⏱️ Payback Simples | 2,39 anos |
+| 🌱 Redução de CO₂ | 31,28 ton/ano |
 
 ---
 
