@@ -26,13 +26,12 @@ com economia total de **40,54%** no consumo diário agregado.
 
 | # | Subsistema | Tecnologia | Economia |
 |---|---|---|---|
-| 1 | 💧 Bombeamento de Água | VFD + PID | 12,74% |
+| 1 | Bombeamento de Agua | VFD + PID | 12,74% |
 | 2 | Elevadores | PMSG + Regenerativo | 35,00% |
-| 3 | 💡 Iluminação | LED + Dimerização | 66,25% |
-| 4 | ❄️ HVAC/Chiller | VFD + COP Elevado | 39,20% |
+| 3 | Iluminacao | LED + Dimerizacao | 66,25% |
+| 4 | HVAC/Chiller | VFD + COP Elevado | 39,20% |
 
-**Economia Total: 40,54% — Meta superada em +15 pontos percentuais!**
-
+**Economia Total: 40,54% -- Meta superada em +15 pontos percentuais!**
 
 
 ---
