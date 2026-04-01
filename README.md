@@ -50,7 +50,7 @@ com economia total de **40,54%** no consumo diário agregado.
     </tr>
     <tr>
       <td>3</td>
-      <td>&#128161; Iluminação</td>
+      <td>; Iluminação</td>
       <td>LED + Dimerização</td>
       <td>66,25%</td>
     </tr>
