@@ -24,16 +24,15 @@ com economia total de **40,54%** no consumo diário agregado.
 
 ---
 
-## 📊 Módulos da Simulação
-
 | # | Subsistema | Tecnologia | Economia |
 |---|---|---|---|
 | 1 | 💧 Bombeamento de Água | VFD + PID | 12,74% |
-| 2 | 🛗 Elevadores | PMSG + Regenerativo | 35,00% |
+| 2 | 🔼 Elevadores | PMSG + Regenerativo | 35,00% |
 | 3 | 💡 Iluminação | LED + Dimerização | 66,25% |
 | 4 | ❄️ HVAC/Chiller | VFD + COP Elevado | 39,20% |
 
 **Economia Total: 40,54% — Meta superada em +15 pontos percentuais!**
+
 
 ---
 
